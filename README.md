@@ -1,7 +1,7 @@
 # Data Mining 2024-2025
 This assignment aims to assess students’ understanding and application on
 advanced concepts and techniques in Data Mining domain and the design
-and implementation of an end-to-end pipeline with optimized models.
+and implementation of an end-to-end pipeline with optimized models. <br>
 Instructions:
 • This is the 2nd Group Assignment (5-6 students per group).
 • It is graded with 20points in total.
