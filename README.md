@@ -44,6 +44,8 @@ and prediction) will be beneficial. <br>
 to be applied (e.g., cleaning, clustering, association rule mining, and
 prediction) and are relevant to the problem. Provide an initial
 pipeline and architecture of your approach. <br> <br>
+<a/>
+
 **Part 2: Advanced Exploratory Data Analysis (EDA) (8 points)** <br>
 After designing and elaborating on the proposed architecture, you are
 requested to proceed with the implementation of an advanced and
@@ -92,6 +94,8 @@ thresholds. <br>
 - 1 point: Build respective data processing pipelines for each one of
 the models implemented in the next step by using the scikit-learn
 library. <br><br>
+<a/>
+
 **Part 3: Predictive Modeling (8 points)**<br>
 Build three different predictive models to solve the problem. You are free
 to use any algorithm (e.g., any type of Naïve Bayes, ANN, SVM, Ensemble
@@ -125,6 +129,8 @@ detailed explanation of the process. <br>
 implementation and discuss how this approach is in alignment with
 the initially set objectives and goals. Highlight the impact and
 added-value in terms of technical and business perspective. <br> <br>
+<a/>
+
 **Part 4: Report (2 points)** <br>
 You are requested to submit a technical report along with your iPython
 notebook. The report should be submitted in PDF format and follow the
