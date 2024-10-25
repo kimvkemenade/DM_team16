@@ -34,13 +34,13 @@ The overall structure of your Group Assignment should include the below
 parts (in high-level). Of course, please feel free to proceed with your own
 implementations and structuring of your code. In parenthesis you can find
 the overall assessment process and the allocated per part points. <br>
-**Part 1: Motivation and Problem Statement (2 points)** <br>
+ **Part 1: Motivation and Problem Statement (2 points)** <br>
 Define a real-world problem that can be solved based on the dataset and
 domain that you have selected to proceed. <br> 
-• 1 point: Provide a clear explanation of the problem, key objectives,
+> 1 point: Provide a clear explanation of the problem, key objectives,
 and how data mining techniques (clustering, association rule mining,
 and prediction) will be beneficial. <br>
-• 1 point: Identify and explain the types of data mining tasks that need
+> 1 point: Identify and explain the types of data mining tasks that need
 to be applied (e.g., cleaning, clustering, association rule mining, and
 prediction) and are relevant to the problem. Provide an initial
 pipeline and architecture of your approach. <br> <br>
