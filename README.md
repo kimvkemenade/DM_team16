@@ -37,10 +37,10 @@ the overall assessment process and the allocated per part points. <br>
  **Part 1: Motivation and Problem Statement (2 points)** <br>
 Define a real-world problem that can be solved based on the dataset and
 domain that you have selected to proceed. <br> 
-> 1 point: Provide a clear explanation of the problem, key objectives,
+- 1 point: Provide a clear explanation of the problem, key objectives,
 and how data mining techniques (clustering, association rule mining,
 and prediction) will be beneficial. <br>
-> 1 point: Identify and explain the types of data mining tasks that need
+- 1 point: Identify and explain the types of data mining tasks that need
 to be applied (e.g., cleaning, clustering, association rule mining, and
 prediction) and are relevant to the problem. Provide an initial
 pipeline and architecture of your approach. <br> <br>
@@ -51,7 +51,7 @@ extensive EDA by also applying techniques from clustering and association
 rule mining domains. In this step you are also requested to proceed with
 any needed data processing and transformation task that you consider
 necessary. <br>
-• 1 point: Discuss potential challenges, limitations, and propose
+- 1 point: Discuss potential challenges, limitations, and propose
 solutions related to data quality, computational complexity, and data
 mining techniques, and discuss approaches of how to tackle and
 address them through your approach. Perform the identified data
@@ -60,13 +60,13 @@ descriptive statistics and create visualizations (histograms, boxplots
 etc.) to describe the distribution of key variables. Provide adequate
 explanations on the insights that can be derived from these initial
 steps of the EDA. <br>
-• 1 point: Apply advanced feature engineering techniques (e.g.,
+- 1 point: Apply advanced feature engineering techniques (e.g.,
 scaling, normalization etc.), and deal with categorical data (e.g., one-
 hot encoding). Perform more advanced visualizations (pair plots,
 correlation heatmaps) and provide insights and explanations based
 on these visualizations. Detail the univariate and multivariate
 analysis that you perform and justify its specific case. <br>
-• 2 points: Apply two different clustering algorithms (e.g., DBSCAN,
+- 2 points: Apply two different clustering algorithms (e.g., DBSCAN,
 k-means, hierarchical) and evaluate clusters using metrics such as
 silhouette score or within-cluster variance. Provide explanations on
 the optimal number of clusters to be selected and detail the use of
@@ -76,20 +76,20 @@ points based on their assigned clusters. For a deeper analysis, create
 heatmaps or pair plots to examine how each feature contributes to
 cluster formation and whether there are distinguishable patterns
 within and across clusters. <br>
-• 1 points: Explore how association rules could be extracted from the
+- 1 points: Explore how association rules could be extracted from the
 clustered data. Perform association rule mining (e.g., Apriori or FP-
 Growth) and generate rules. Evaluate the rules using metrics like
 confidence and lift, and discuss their potential value for the business
 problem. <br>
-• 1 point: Interpret the insights derived from clustering and association
+- 1 point: Interpret the insights derived from clustering and association
 rules in the context of the problem and discuss potential business or
 practical applications. Explain how these results align with business
 objectives and guide the next steps in predictive modeling. <br>
-• 1 point: Propose any improvements for the clustering algorithm or
+- 1 point: Propose any improvements for the clustering algorithm or
 association rule mining process, such as trying different parameter
 configurations or adjusting the minimum support and confidence
 thresholds. <br>
-• 1 point: Build respective data processing pipelines for each one of
+- 1 point: Build respective data processing pipelines for each one of
 the models implemented in the next step by using the scikit-learn
 library. <br><br>
 **Part 3: Predictive Modeling (8 points)**<br>
@@ -102,26 +102,26 @@ works and State-of-the-Art techniques related to your problem. You are
 also requested to perform cross-validation and model fine-tuning for
 improved performance of your models, by also justifying your selections
 and final parameters usage. <br>
-• 2 points: Split the data into training and testing sets. Train three
+- 2 points: Split the data into training and testing sets. Train three
 simple models (e.g., XGBoost, ANN, Logistic Regression, Random
 Forest etc.) on the dataset. Provide an in-depth evaluation using
 multiple different metrics (accuracy, precision, recall, F1-score,
 confusion matrix, ROC curve, MSE, MAE etc.) depending on your
 selected predictive case. <br>
-• 2 points: Finetuning and continuous validating the performance of
+- 2 points: Finetuning and continuous validating the performance of
 your models by applying cross-validation techniques to evaluate the
 model’s performance more robustly. Compare the performance
 between the three different models and their versions that you will
 finally select to apply in your scenario by focusing on the cross-
 validation and finetuning steps. <br>
-• 2 points: Interpret the outcomes of the models, perform error
+- 2 points: Interpret the outcomes of the models, perform error
 analysis, and assess limitations. Identify ways to improve
 performance, balancing training time, accuracy, and variance.
 Justify any trade-offs made in the fine-tuning process. Provide a
 well-justified final selection between these three models. Discuss
 and propose ways to improve models’ performance and provide a
 detailed explanation of the process. <br>
-• 2 points: Conclude on the final insights and outcomes of your overall
+- 2 points: Conclude on the final insights and outcomes of your overall
 implementation and discuss how this approach is in alignment with
 the initially set objectives and goals. Highlight the impact and
 added-value in terms of technical and business perspective. <br> <br>
