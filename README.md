@@ -3,37 +3,39 @@ This assignment aims to assess students’ understanding and application on
 advanced concepts and techniques in Data Mining domain and the design
 and implementation of an end-to-end pipeline with optimized models. <br>
 Instructions: <br>
-• This is the 2nd Group Assignment (5-6 students per group). <br>
-• It is graded with 20points in total. <br>
-• The code of your assignment consists of four parts that are also
+- This is the 2nd Group Assignment (5-6 students per group). <br>
+- It is graded with 20points in total. <br>
+- The code of your assignment consists of four parts that are also
 assessed respectively as shown below. <br>
-• Along with your iPython notebook you have to also submit a
+- Along with your iPython notebook you have to also submit a
 technical report (max 6 pages and in PDF format), covering the
 topics that are indicated in the respective template that can be found
 here. Please upload both files in a zip or rar file by the deadline <br>
-• The domains and datasets that you can select to implement your
+- The domains and datasets that you can select to implement your
 Group Assignment are as per the below table. <br>
 Financial - Marketing Campaign <br>
 e-Commerce - E-Commerce Data <br>
 Banking - Bank Marketing <br>
-• Please feel free to select the dataset and domain of your preference. <br>
-• Clear explanations and well-documented code are expected. <br>
-• You should pay high attention in the interpretation and justification
+- Please feel free to select the dataset and domain of your preference. <br>
+- Clear explanations and well-documented code are expected. <br>
+- You should pay high attention in the interpretation and justification
 of your results and code. Results without any explanation and
-justification will not be graded. <br><br>
+justification will not be graded. <br><br><a/>
 You are requested to: <br>
-a) apply clustering and association rules mining techniques towards
+a. apply clustering and association rules mining techniques towards
 identifying relationships and patterns. Applying such techniques on
 the pre-processing step can improve the predictive capabilities of
 your models. <br>
-b) train, evaluate, and compare three different predictive models.
+b. train, evaluate, and compare three different predictive models.
 Finetune and optimize their performance and detail any trade-off
 between accuracy, use of resources, training time etc.. <br><br>
 
 The overall structure of your Group Assignment should include the below
 parts (in high-level). Of course, please feel free to proceed with your own
 implementations and structuring of your code. In parenthesis you can find
-the overall assessment process and the allocated per part points. <br>
+the overall assessment process and the allocated per part points. <br><br>
+
+
  **Part 1: Motivation and Problem Statement (2 points)** <br>
 Define a real-world problem that can be solved based on the dataset and
 domain that you have selected to proceed. <br> 
